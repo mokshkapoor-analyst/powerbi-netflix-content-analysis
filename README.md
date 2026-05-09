@@ -8,6 +8,8 @@ This project combines **SQL for data cleaning & transformation** with **Power BI
 
 # 📊 Dashboard Preview
 
+📌 Click on the image to see the working of this project as a presentation  
+
 ## 📺 Netflix Dashboard Screenshot
 
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_dataanalytics-dataanalyst-powerbi-ugcPost-7444239716889063424-lHaW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
